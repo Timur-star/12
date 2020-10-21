@@ -1,3 +1,1 @@
-https://timur-star.github.io/12/
-
-https://frontend.vh.yandex.ru/player/vXE2D72f85lA?from=partner&mute=1&autoplay=1&branding=0
+<iframe width="560" height="315" src="https://frontend.vh.yandex.ru/player/vXE2D72f85lA?from=partner&mute=0&branding=0"; fullscreen; accelerometer; gyroscope; picture-in-picture; encrypted-media" frameborder="0" scrolling="no" allowfullscreen></iframe>
