@@ -1,1 +1,1 @@
-![70206319_2733432796679717_1237820859039717422_n](https://user-images.githubusercontent.com/73022111/96709023-bf4c2400-13a2-11eb-8122-4250948450ee.png)
+![1](https://yandex.ru/efir/?stream_id=vXE2D72f85lA)
